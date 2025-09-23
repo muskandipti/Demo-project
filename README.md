@@ -1,6 +1,6 @@
 
 from turtle import *
-import colorsys
+import colorsy 
 
 speed(0)
 bgcolor("black")
